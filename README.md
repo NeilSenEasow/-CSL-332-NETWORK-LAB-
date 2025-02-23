@@ -13,7 +13,10 @@ Welcome to the **CSL-332 Network Lab**! This repository contains a series of lab
 | 15-01-2025 | 3      | Implementation of Client-Server Communication Using Socket Programming and TCP | [LAB 3](https://github.com/Viwvwek/-CSL-332-NETWORK-LAB/tree/main/LAB%202) |
 | 22-01-2025 | 4      | Implementation of Client-Server Communication Using Socket Programming and UDP | [LAB 4](https://github.com/Viwvwek/-CSL-332-NETWORK-LAB/tree/main/LAB%203) |
 | 29-01-2025 | 5      | Implementation of Sliding Window Protocol                                      | [LAB 5](https://github.com/Viwvwek/-CSL-332-NETWORK-LAB/tree/main/LAB%204) |
-| 12-02-2025 | 6      | Implementation of Go-Back-N Protocol                                           | [LAB 6](https://github.com/Viwvwek/-CSL-332-NETWORK-LAB/tree/main/LAB%205) |
+| 12-02-2025 | 6      | Implementation of Go-Back-N Protocol                   | [LAB 6](https://github.com/Viwvwek/-CSL-332-NETWORK-LAB/tree/main/LAB%205) |
+| 19-02-2025 | 7      | Implementation of Selective Repeat ARQ Protocol        | [LAB 7](#)|
+
+Let me know if you want to modify anything! 🚀
 
 ---
 
@@ -44,11 +47,15 @@ Welcome to the **CSL-332 Network Lab**! This repository contains a series of lab
 - **Title**: Implementation of Sliding Window Protocol  
 - **Description**: Understand and implement the sliding window protocol, a fundamental concept in data link layer communication.
 
-### **Lab 6: Go-Back-N Protocol**
+### **Lab 6: Go-Back-N Protocol**  
 - **Date**: 12-02-2025  
 - **Title**: Implementation of Go-Back-N Protocol  
-- **Description**: Learn about the Go-Back-N ARQ protocol, which is used for reliable data communication.
+- **Description**: Learn about the Go-Back-N ARQ protocol, which is used for reliable data communication.  
 
+### **Lab 7: Selective Repeat ARQ Protocol**  
+- **Date**: 23-02-2025  
+- **Title**: Implementation of Selective Repeat ARQ Protocol  
+- **Description**: Explore the Selective Repeat ARQ protocol, which enhances reliability by retransmitting only erroneous or lost packets instead of the entire window, improving efficiency in data transmission.  
 ---
 
 ## Getting Started
